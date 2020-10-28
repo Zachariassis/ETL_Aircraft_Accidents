@@ -1,0 +1,1181 @@
+,Make,count
+0,cessna,7561
+1,piper,4275
+2,beechcraft,1635
+3,robinson,760
+4,bell,695
+5,mooney,469
+6,grumman,365
+7,cirrus,315
+8,boeing,284
+9,bellanca,263
+10,schweizer,247
+11,hughes,238
+12,maule,233
+13,air tractor,231
+14,aeronca,204
+15,air tractor inc,175
+16,luscombe,154
+17,champion,152
+18,stinson,142
+19,north american,140
+20,eurocopter,136
+21,diamond,124
+22,taylorcraft,111
+23,aero commander,109
+24,de havilland,100
+25,aviat,92
+26,mcdonnell douglas,83
+27,airbus,82
+28,dehavilland,80
+29,aerospatiale,79
+30,raytheon,79
+31,schleicher,75
+32,enstrom,74
+33,aviat aircraft inc,66
+34,socata,64
+35,ayres,58
+36,rockwell international,56
+37,sikorsky,56
+38,ercoupe,55
+39,hiller,53
+40,embraer,52
+41,rockwell,48
+42,waco,48
+43,flight design gmbh,44
+44,schempp-hirth,43
+45,let,41
+46,american champion aircraft,41
+47,ayres corporation,36
+48,eurocopter france,36
+49,mitsubishi,33
+50,wsk pzl mielec,32
+51,learjet,32
+52,helio,31
+53,swearingen,30
+54,douglas,30
+55,burkhart grob,29
+56,agusta,28
+57,globe,28
+58,pilatus,28
+59,ercoupe (eng & research corp.),28
+60,yakovlev,28
+61,evektor-aerotechnik as,27
+62,ryan,27
+63,fairchild,27
+64,navion,25
+65,costruzioni aeronautiche tecna,25
+66,mcdonnell douglas helicopter,25
+67,bombardier,25
+68,weatherly,24
+69,quicksilver,24
+70,flight design,23
+71,bombardier inc,23
+72,american champion (acac),22
+73,lake,20
+74,aero vodochody,20
+75,smith,20
+76,great lakes,19
+77,schweizer aircraft corp,19
+78,md helicopter,19
+79,canadair,18
+80,eurocopter deutschland gmbh,17
+81,american,17
+82,rans,16
+83,brantly,16
+84,bell helicopter textron,16
+85,cub crafters inc,16
+86,lockheed,16
+87,buckeye,15
+88,engineering & research,15
+89,cub crafters,15
+90,consolidated aeronautics inc.,15
+91,czech aircraft works spol sro,15
+92,alon,15
+93,american aviation,14
+94,american legend aircraft co,14
+95,mbb,14
+96,aerostar,14
+97,airborne,14
+98,burkhart grob flugzeugbau,14
+99,siai-marchetti,14
+100,boeing stearman,14
+101,cubcrafters inc,14
+102,silvaire,14
+103,aerotek,13
+104,airborne windsports pty ltd,13
+105,stearman,13
+106,remos aircraft gmbh,13
+107,columbia aircraft mfg,13
+108,gates learjet,12
+109,"bombardier, inc.",12
+110,pipistrel,12
+111,air creation,12
+112,temco,12
+113,christen industries,12
+114,britten-norman,12
+115,cameron balloons,11
+116,lancair,11
+117,aeropro cz,11
+118,bell helicopter textron canada,11
+119,thrush aircraft inc,11
+120,christen industries inc,11
+121,curtiss wright,11
+122,gulfstream aerospace,11
+123,brantly helicopter,11
+124,aircraft mfg & dev. co. (amd),11
+125,republic,10
+126,israel aircraft industries,10
+127,texas helicopter corp,10
+128,american champion,10
+129,nanchang,9
+130,curtiss-wright,9
+131,tecnam,9
+132,lancair company,9
+133,extra flugzeugbau,9
+134,fleet,9
+135,gulfstream-schweizer,9
+136,czech sport aircraft as,9
+137,mcdonnell douglas heli co,9
+138,eurocopter deutschland,9
+139,gulfstream-schweizer a/c corp,9
+140,aviat inc,9
+141,rolladen-schneider,8
+142,md helicopter inc,8
+143,american aviation corp. (aac),8
+144,hawker,8
+145,ryan aeronautical,8
+146,pitts,8
+147,"smith, ted aerostar",8
+148,glasflugel,8
+149,kaman,8
+150,cameron balloons us,8
+151,fokker,8
+152,weatherly aviation co inc,8
+153,grob,8
+154,czech aircraft works,8
+155,ultramagic,7
+156,pzl-swidnik,7
+157,scottish aviation,7
+158,piaggio,7
+159,powrachute,7
+160,classic aircraft corp,7
+161,jabiru usa sport aircraft llc,7
+162,sukhoi,7
+163,balloon works,7
+164,garlick helicopters inc,7
+165,dassault aviation,7
+166,british aerospace,7
+167,hawker siddeley,7
+168,lindstrand balloons,7
+169,convair,7
+170,north wing,7
+171,schempp hirth,7
+172,extra flugzeugbau gmbh,7
+173,nanchang china,7
+174,infinity,7
+175,interstate,7
+176,saab-scania ab (saab),6
+177,gulfstream american corp,6
+178,aerostar international inc,6
+179,learjet inc,6
+180,tl ultralight sro,6
+181,fairchild hiller,6
+182,evolution aircraft inc,6
+183,american legend,6
+184,arrow falcon exporters inc,6
+185,garlick,6
+186,gulfstream,6
+187,american eurocopter corp,6
+188,trick trikes,6
+189,gulfstream american,6
+190,universal stinson,6
+191,continental copters inc.,6
+192,ab sportine aviacija,6
+193,culver,6
+194,vans aircraft inc,6
+195,waco classic aircraft,6
+196,cubcrafters,6
+197,cosmos,6
+198,arion aircraft llc,6
+199,evolution trikes,6
+200,pdps pzl-bielsko,6
+201,dassault-breguet,6
+202,american general aircraft,6
+203,liberty aerospace incorporated,6
+204,fantasy air sro,5
+205,eagle,5
+206,extra flugzeugproduktions-und,5
+207,aerostar international,5
+208,gates learjet corp.,5
+209,pilatus aircraft ltd,5
+210,meyers,5
+211,iniziative industriali italian,5
+212,aero vodochody aero. works,5
+213,remos acft gmbh flugzeugbau,5
+214,kubicek,5
+215,air tractor inc.,5
+216,agusta spa,5
+217,aerotrike,5
+218,eiriavion oy,5
+219,stemme gmbh & co,5
+220,jabiru,5
+221,destiny,5
+222,extra,5
+223,mcdonnell douglas aircraft co,4
+224,morrisey,4
+225,general atomics,4
+226,short bros. & harland,4
+227,quest,4
+228,aircraft mfg & development co,4
+229,classic aircraft corp.,4
+230,commander,4
+231,howard aircraft,4
+232,american eurocopter,4
+233,ams flight,4
+234,jihlavan,4
+235,textron aviation inc,4
+236,messerschmitt-bolkow-blohm,4
+237,rotorway,4
+238,head balloons inc,4
+239,goodyear,4
+240,vans,4
+241,pzl,4
+242,american eurocopter llc,4
+243,pipistrel doo ajdovscina,4
+244,alexander schleicher gmbh & co,4
+245,liberty aerospace inc.,4
+246,north wing uum inc,4
+247,aeros ltd,4
+248,guimbal,4
+249,downer,4
+250,monocoupe,4
+251,ultramagic sa,4
+252,airframes unlimited,4
+253,buckeye industries,4
+254,fairchild swearingen,4
+255,quest aircraft company llc,4
+256,cameron,4
+257,progressive aerodyne inc,4
+258,p&m aviation ltd,4
+259,north american/aero classics,4
+260,glaser-dirks,4
+261,snow,4
+262,nord,4
+263,dornier,4
+264,stearman aircraft,4
+265,interplane,4
+266,gates lear jet,4
+267,centrair,4
+268,aero sp z o o,4
+269,glaser dirks,4
+270,convair div. of gen. dynamics,4
+271,six chuter,4
+272,zenair,3
+273,aeroprakt,3
+274,sabre,3
+275,avia stroitel,3
+276,aerostar s a,3
+277,dg flugzeugbau gmbh,3
+278,enstrom helicopter corp,3
+279,flugzeugbau,3
+280,eclipse aviation corp,3
+281,northwing,3
+282,pitts aerobatics,3
+283,columbia,3
+284,consolidated vultee,3
+285,siai marchetti,3
+286,fpna llc,3
+287,rainbow sky reach (pty) ltd,3
+288,ultralight america,3
+289,skykits corp,3
+290,aerovodochody,3
+291,kolb,3
+292,short brothers,3
+293,embraer-empresa brasileira de,3
+294,northwing design,3
+295,mikoyan gurevich,3
+296,aerostar acft corp of texas,3
+297,s c aerostar s a,3
+298,blanik,3
+299,piaggio industrie,3
+300,commonwealth,3
+301,rolladen-schneider ohg,3
+302,apollo aircraft inc,3
+303,flightstar,3
+304,pzl mielec,3
+305,"allied ag cat productions, inc",3
+306,slingsby,3
+307,varga aircraft corp.,3
+308,zenair ltd,3
+309,texas helicopter,3
+310,icon aircraft inc,3
+311,remos,3
+312,xtremeair gmbh,3
+313,jonker sailplanes (pty) ltd,3
+314,pacific aerospace corp ltd,3
+315,evektor aerotechnik,3
+316,antares,3
+317,fantasy air,3
+318,arctic aircraft corp.,3
+319,casa,3
+320,chance vought,3
+321,s.o.c.a.t.a.,3
+322,travel air,3
+323,higher class aviation,3
+324,construcciones aeronauticas sa,3
+325,md helicopters inc,3
+326,partenavia,3
+327,helicopteres guimbal,3
+328,celier aviation,3
+329,canadian car & foundry,3
+330,artic aircraft corp.,3
+331,mdhi,3
+332,interavia,3
+333,found acft canada inc,3
+334,aerofab inc.,3
+335,short bros,3
+336,gulfstream american corp.,3
+337,pzl-bielsko,3
+338,porterfield,3
+339,lindstrand,3
+340,hispano aviacion,3
+341,autogyro,3
+342,american general acft corp,3
+343,meyers aircraft co.,2
+344,rockwell commander,2
+345,aerotechnik,2
+346,quicksilver manufacturing inc,2
+347,rose,2
+348,apollo,2
+349,forney,2
+350,bird,2
+351,i.c.a.-brasov,2
+352,dji,2
+353,aerostar international inc.,2
+354,aeros,2
+355,pphu ekolot,2
+356,pegasus,2
+357,commander aircraft company,2
+358,short bros.,2
+359,fouga,2
+360,fairchild heli-porter,2
+361,caproni vizzola cos. aero.,2
+362,continental copters inc,2
+363,textron aviation,2
+364,north american aviation div.,2
+365,quad city ultralight aircraft,2
+366,waco classic aircraft corp,2
+367,kinner,2
+368,lockheed-martin,2
+369,found aircraft canada inc,2
+370,bae systems,2
+371,valentin,2
+372,sportine aviacija,2
+373,pzl-mielec,2
+374,czech sportplanes sro,2
+375,aerostar aircraft corporation,2
+376,just aircraft llc,2
+377,british aircraft corp. (bac),2
+378,moravan,2
+379,golden circle air,2
+380,dassault/sud,2
+381,messerschmitt,2
+382,rolladen-schneider gmbh,2
+383,funk,2
+384,jihlavan airplanes sro,2
+385,"arrow falcon exporters, inc.",2
+386,buckeye aviation inc,2
+387,airborne windsport,2
+388,omf,2
+389,skykits,2
+390,urban air sro,2
+391,golden eagle,2
+392,m squared,2
+393,white,2
+394,"md helicopters, inc.",2
+395,icon,2
+396,aviation international rotors,2
+397,agusta aerospace corp,2
+398,schweizer aircraft corp.,2
+399,pzl warzawa-okecie,2
+400,consolidated-vultee,2
+401,brm aero,2
+402,powrachute llc,2
+403,solo wings,2
+404,reims aviation,2
+405,hughes helicopters inc,2
+406,maxair,2
+407,naval aircraft factory,2
+408,wsk pzl,2
+409,czech sport aircraft a s,2
+410,stol,2
+411,hughes aero corp,2
+412,perth amboy,2
+413,hawker aircraft ltd,2
+414,head,2
+415,micco aircraft company,2
+416,univair aircraft corporation,2
+417,s.n.i.a.s.,2
+418,firefly,2
+419,howard aircraft corp.,2
+420,phantom aeronautics,2
+421,beagle aircraft,2
+422,american legend aircraft co.,2
+423,aeromot,2
+424,quad city ultralight acft corp,2
+425,mcculloch,2
+426,"cubcrafters, inc",2
+427,williams helicopter corp,2
+428,adams,2
+429,american blimp corp.,2
+430,bell helicopter,2
+431,twin commander acft. corp.,2
+432,continental copters,2
+433,zlin,2
+434,taylorcraft aviation corp,2
+435,taylorcraft aviation corp.,2
+436,mcdonnell douglas helicopters,2
+437,moyes bailey,2
+438,evolution,2
+439,bell-carson,2
+440,wsk-pzl warzawa-okecie,2
+441,eipper,2
+442,quicksilver enterprises inc,2
+443,new standard,2
+444,potez-air fouga,2
+445,evektor-aerotechnik,2
+446,bucker jungmann,2
+447,universal,2
+448,zenith,2
+449,dassault,2
+450,start & flug,2
+451,sud aviation,2
+452,eagle aircraft co.,2
+453,costruzioni aeronautiche,2
+454,rotorcraft development corp,2
+455,waco classic aircraft corp.,2
+456,m-squared aircraft,2
+457,"head balloons, inc.",2
+458,kaman aerospace corp,2
+459,allegro,2
+460,md helicopters,2
+461,as+ ltd,2
+462,monocoupe aircraft,2
+463,challenger,2
+464,titan,2
+465,dornier gmbh,2
+466,pitcairn,2
+467,schleicher alexander gmbh & co,2
+468,hoac-austria,2
+469,fairchild(howard),2
+470,scheibe,2
+471,aircraft mfg & design llc,2
+472,canadair ltd,2
+473,aviat aircraft inc.,2
+474,aircraft mfg & dvlpmt co,2
+475,s.c. aerostar s.a.,2
+476,varga,2
+477,croman corporation,2
+478,quad city,2
+479,airtime aircraft inc,2
+480,gulfstream am corp comm div,2
+481,"rans, inc.",2
+482,air & space,2
+483,colyaer sl,2
+484,buckeye aviation,2
+485,bell/garlick,2
+486,skykits usa corp,2
+487,buckeye industries inc,2
+488,grob-werke,2
+489,alliant aviation,1
+490,yowell,1
+491,raven,1
+492,aeropro cz s r o,1
+493,hughes aero,1
+494,taylorcraft aviation,1
+495,moyes b/bailey b,1
+496,wsk-pzl mielec,1
+497,aaa aircraft leasing,1
+498,airborne (australia),1
+499,camair,1
+500,palen,1
+501,brandt leroy e,1
+502,linstrand,1
+503,kolb aircraft inc,1
+504,urban air,1
+505,eagle aircraft co,1
+506,rans aircraft,1
+507,opus motorsports llc,1
+508,allstar pzl,1
+509,kawasaki,1
+510,dta sari,1
+511,rolladen schneider,1
+512,found acft,1
+513,zenith aircraft co,1
+514,helton,1
+515,rolladen schneider ohg,1
+516,skybolt,1
+517,chech aircraft works spol sro,1
+518,evektor aerotechnic,1
+519,czech sport aircraft a.s.,1
+520,gulfstream aerospace corp.,1
+521,aircraft mfg & development co.,1
+522,grob aircraft ag,1
+523,ferdon,1
+524,paradise usa llc,1
+525,eccker,1
+526,scotts-bell 47 inc,1
+527,embraer s a,1
+528,aviat aircraft,1
+529,north american-medore,1
+530,morane-saulnier,1
+531,brown mitch,1
+532,"thrush aircraft, inc.",1
+533,carlo robert,1
+534,glasair,1
+535,bombardier learjet corp.,1
+536,embraer s.a.,1
+537,indus aviation inc,1
+538,rans employee flying club,1
+539,engineering and research,1
+540,mcdonnell douglas helicopter c,1
+541,avions mudry et cie,1
+542,hughes/helicopter assocs inc,1
+543,brewster fleet,1
+544,wilde daniel l,1
+545,honda aircraft,1
+546,northrop,1
+547,gulfstream schweizer a/c corp,1
+548,microlites ptyltd,1
+549,mkii corporation,1
+550,powrachute corp,1
+551,leigh,1
+552,interplane sro,1
+553,i.c.a.-brasov (romania),1
+554,thunder and colt,1
+555,stampe,1
+556,aeronca/bubeck,1
+557,arctic aircraft company,1
+558,wsl pzl,1
+559,alisport,1
+560,b??lkow,1
+561,powrachute corp.,1
+562,test,1
+563,"consolidated aeronautics, inc",1
+564,best off,1
+565,vought,1
+566,airplane factory (pty) ltd the,1
+567,p z l -warszawa-cnpsl,1
+568,weinzierl,1
+569,skytrails lsa,1
+570,evektor aerotechnik as,1
+571,pitts special,1
+572,worner balloon works,1
+573,tumbling goose llc,1
+574,bristell,1
+575,eris e. ervin,1
+576,north american/schwamm,1
+577,thrush aircraft inc.,1
+578,avions fairey,1
+579,szybowcowy zaklad do,1
+580,interplane s r o,1
+581,kitty hawk,1
+582,reed mike,1
+583,martin charles a,1
+584,aero at sp zoo,1
+585,harold h. smith,1
+586,"uetz, walter",1
+587,softex invest llc,1
+588,world aircraft co,1
+589,aero sp z o o (gobosh),1
+590,aeros ltd/skyranger aircraft,1
+591,yuneec,1
+592,evektor-aerotechnik a.s.,1
+593,garlick helicipters inc.,1
+594,delf tim,1
+595,bell-transworld helicopter cor,1
+596,curtis-wright,1
+597,aerospatiale alenia,1
+598,t&t aviation inc,1
+599,"cortesy, john e",1
+600,fairchild-heliporter,1
+601,cobalt aircraft industries inc,1
+602,pzl okecie,1
+603,vickers,1
+604,globe swift,1
+605,tl ultralight,1
+606,heldeberg design,1
+607,colt balloons,1
+608,greene r/greene s,1
+609,issoire siren,1
+610,dirks glaser,1
+611,ultra magic,1
+612,liberty,1
+613,williams helicopter,1
+614,partenavia s.p.a.,1
+615,"consolidated aeronautics, inc.",1
+616,super 18 llc,1
+617,bell-transworld helicopters,1
+618,true flight holdings llc,1
+619,sc aerostar sa,1
+620,shempp-hirth,1
+621,christen,1
+622,mcnulty john s,1
+623,md helicopters inc.,1
+624,thrush,1
+625,garlick helicopters inc.,1
+626,glaser-dirks flugzeugbau,1
+627,folland aircraft co ltd,1
+628,byron j. moore,1
+629,177mf llc,1
+630,utva,1
+631,i.c.a. brasov,1
+632,titan aerospace holdings inc,1
+633,adams balloon,1
+634,aeronca aircraft corporation,1
+635,lanshe aerospace,1
+636,southern powered parachutes,1
+637,howard steven c,1
+638,wing aircraft,1
+639,st. claire,1
+640,mcdonnell douglas corporation,1
+641,rainbow sky reach,1
+642,pezetel,1
+643,jonker,1
+644,"jabiru usa sport aircraft, llc",1
+645,helio aircraft ltd,1
+646,arrow falcon exporters,1
+647,p&m aviation ltd.,1
+648,fk lightplanes,1
+649,air creation usa llc,1
+650,partenavia spa,1
+651,arctic aircraft co. inc.,1
+652,j&j ultralights,1
+653,hamburger flugzeugbau (hfb),1
+654,scandinavian aero industry,1
+655,flightstar inc,1
+656,sabre trike,1
+657,bartels,1
+658,cgs aviation,1
+659,mikoyan mig,1
+660,wilson michael a,1
+661,lyons,1
+662,mccleery,1
+663,"sky international, inc.",1
+664,arctic aircraft company inc,1
+665,u-fly-it,1
+666,short brothers plc,1
+667,beagle,1
+668,unregistered,1
+669,windward,1
+670,wingtip to wingtip llc,1
+671,gippsland,1
+672,arbc inc,1
+673,"schweizer, n36289",1
+674,ac mfg & dev't co,1
+675,spectrum aeronautical llc,1
+676,central ohio dragonfly club,1
+677,aerial productions intl. inc.,1
+678,drake,1
+679,gentry john k,1
+680,hemmer,1
+681,north american/victoria mnt lt,1
+682,smith aerostar,1
+683,messerschmitt-boelkow-blohm,1
+684,boeing company,1
+685,bae,1
+686,world helicopters,1
+687,north wing uum inc.,1
+688,jackson,1
+689,chamberlain gerald,1
+690,devoe,1
+691,franke roland,1
+692,poser,1
+693,hughes william j,1
+694,cgs aviation llc,1
+695,saab,1
+696,"christen industries, inc.",1
+697,glasair aviation usa llc,1
+698,raven industries,1
+699,aerotek inc,1
+700,l goldner,1
+701,john d. williams,1
+702,"six chuter, inc",1
+703,alliant,1
+704,dgflugzeugbau,1
+705,burkhart-grob,1
+706,"sherman john, h",1
+707,x-air llc,1
+708,elan,1
+709,phoenix air,1
+710,air command,1
+711,laird,1
+712,topdog ultralights,1
+713,cobb international,1
+714,dg flugzeugbau,1
+715,eclipse aviation corporation,1
+716,m-squared,1
+717,sportflight international llc,1
+718,adventura,1
+719,head balloons inc.,1
+720,canadian light acft sales &svc,1
+721,sikorsky aircraft corporation,1
+722,mccullough,1
+723,t bird,1
+724,ag-cat corporation,1
+725,rawdon bros. aircraft,1
+726,interplane llc,1
+727,bellanca citabria,1
+728,airindus,1
+729,belcher william b ii,1
+730,holley carol l,1
+731,rajhamsa,1
+732,gt ultralights,1
+733,schempp-hirth k.g.,1
+734,"aviat aircraft, inc.",1
+735,rainbow aircraft pty ltd,1
+736,s.a. centrair,1
+737,thompson david,1
+738,tomlinson tracy l,1
+739,charland,1
+740,c a tecnam srl,1
+741,"aerostar, s.a",1
+742,mx aircraft llc,1
+743,airplane factory,1
+744,tiger aircraft llc,1
+745,infinity power parachutes,1
+746,akro tech aviation inc. giles,1
+747,quinn aviation inc.,1
+748,sino-swearingen,1
+749,general motors,1
+750,cub crafters inc.,1
+751,davis,1
+752,fleetwood jack,1
+753,schweizer 300cbi,1
+754,broussard,1
+755,team inc,1
+756,thomas lee,1
+757,scoda aeronautical,1
+758,arrow aircraft co.,1
+759,rans inc,1
+760,zlin aviation s.r.o.,1
+761,scottish,1
+762,cartercopter llc,1
+763,aircraft mfg & dev. co.,1
+764,north american rockwell corp.,1
+765,chicco,1
+766,fetterman lanny r,1
+767,christen industries inc.,1
+768,"van's aircraft, inc.",1
+769,dova aircraft sro,1
+770,moses tim c,1
+771,walker,1
+772,aerofab,1
+773,higgins john h/williams john d,1
+774,firefly balloons inc,1
+775,destiny powered parachutes llc,1
+776,fairchild merlin,1
+777,barger jerry l,1
+778,elan/glaser dirks,1
+779,jones peter m,1
+780,thunderbird aviation,1
+781,seymour,1
+782,north american rockwell,1
+783,leonardo,1
+784,grahn j/grahn g,1
+785,iar brasov,1
+786,trinidad,1
+787,piaggio aero industries s.p.a.,1
+788,norman,1
+789,biuro projektowe b bogumil ber,1
+790,kessinger roger l,1
+791,allstar pzl glider,1
+792,pzl warzawa-cnpsl,1
+793,meyers industries inc,1
+794,storch aviation australia pty,1
+795,seguin,1
+796,scaled composites,1
+797,nasa ames research center,1
+798,flightstar sportplanes,1
+799,lite flight,1
+800,mielec,1
+801,soko,1
+802,ploof progressive aerodyne's,1
+803,air trikes,1
+804,schleicher alexander gmbh,1
+805,agustawestland philadelphia,1
+806,polaris motors,1
+807,kerns kenneth h,1
+808,reims,1
+809,summit,1
+810,edra aeronautica,1
+811,aston kinsey,1
+812,six chuter west llc,1
+813,valldejuli john a,1
+814,costruzioni aeronautichetecnam,1
+815,bristol,1
+816,columbia aircraft mfg.,1
+817,apollo north america inc,1
+818,grenier,1
+819,heliotech,1
+820,erickson,1
+821,smithwick/treidel,1
+822,"vans aircraft, inc.",1
+823,innovator technologies,1
+824,avian,1
+825,golden circle air inc,1
+826,aero vodochody aero works,1
+827,magnaghi aeronautica spa,1
+828,citabria,1
+829,jdt mini-max llc,1
+830,pollack,1
+831,fogg,1
+832,moyes,1
+833,fields mike,1
+834,westland helicopters,1
+835,bell-watson,1
+836,bailey-moyes microlights,1
+837,avions mudry cie,1
+838,goiden circle,1
+839,consolidated aeronautics inc,1
+840,balloon works inc,1
+841,universal moulded pdts.,1
+842,stol aircraft corp,1
+843,raven industries inc,1
+844,arado-flugzeugwerke gmbh,1
+845,"boeing company, long beach div",1
+846,butler aircraft company,1
+847,taylorcraft corp,1
+848,cosentino garey a,1
+849,infinity power parachutes llc,1
+850,skygear,1
+851,ferguson william c,1
+852,calstar 1,1
+853,maxair drifter,1
+854,shirley carl,1
+855,quicksilver eipper acft inc,1
+856,md helicopter inc.,1
+857,stemme,1
+858,"swift museum foundation, inc.",1
+859,aerolite,1
+860,wsk-pzl warzawaokecie,1
+861,edwards douglas l,1
+862,antonovich anton b,1
+863,la moutte,1
+864,phantom aircraft co,1
+865,barrows,1
+866,avian balloon,1
+867,zivko aeronautics inc.,1
+868,strategie ballloon co.,1
+869,wsk pzl swidnik,1
+870,helo werks,1
+871,oliver lawrence r,1
+872,polaris,1
+873,"ekornaas, fred",1
+874,brm aero sro,1
+875,let np kinovice,1
+876,general balloon corp.,1
+877,hamilton,1
+878,quicksilver aircraft,1
+879,"aerofab, inc.",1
+880,aerotrek,1
+881,hillard charlie r,1
+882,eipper formance inc,1
+883,schumacher,1
+884,hph ltd,1
+885,weatherly aviation company inc,1
+886,symphony aircraft ind inc,1
+887,cesna,1
+888,schempp-hirth flugzeugbau gmbh,1
+889,barche,1
+890,gulfstream aerospace corp,1
+891,beller,1
+892,buckeye powered parachutes inc,1
+893,hoffmann,1
+894,durfee fred,1
+895,dratbe shmiel amir,1
+896,dusenberry mark j,1
+897,grimes barry r,1
+898,schleicher alexander,1
+899,avions robin,1
+900,fisher michael h,1
+901,halladay roy,1
+902,"wingtip to wingtip, llc",1
+903,aero works,1
+904,kolb aircraft co,1
+905,"newgent, barry",1
+906,avions max holste,1
+907,dean leslie n,1
+908,czech sport,1
+909,keuthan,1
+910,antares - balaban,1
+911,malechek,1
+912,bombardier canadair,1
+913,noorduyn aviation,1
+914,quicksilver mfg,1
+915,d-fly,1
+916,tetrault ronad,1
+917,pacific aerospace ltd,1
+918,pzl swidnik,1
+919,cavalier aircraft corp.,1
+920,phillips william l,1
+921,six chuter inc,1
+922,bushmaster aircraft,1
+923,aero adventure,1
+924,excel jet,1
+925,commander aircraft co,1
+926,spartan,1
+927,volaircraft,1
+928,colonial,1
+929,arctic aircraft co inc,1
+930,clark,1
+931,gippsaero pty ltd,1
+932,a. schleicher gmbh & co.,1
+933,david s meek,1
+934,williams yakovlev,1
+935,europro cz,1
+936,dg-flugzeugbau gmbh,1
+937,aerofab inc,1
+938,erick magno & assoc pa,1
+939,quicksilver manufacturing,1
+940,new kolb aircraft co,1
+941,unknown,1
+942,itec inc,1
+943,rogerson hiller corp.,1
+944,snobird,1
+945,sabreliner corp.,1
+946,siemer james h,1
+947,czech sport aircraft,1
+948,rearwin,1
+949,riley,1
+950,airgyro aviation llc,1
+951,lyons robert,1
+952,central ohio dragonfly clubllc,1
+953,tamarack helicopters inc,1
+954,aviate,1
+955,meuer gary d,1
+956,jetstream,1
+957,ratheon aircraft company,1
+958,dova aircraft,1
+959,indus aviation inc.,1
+960,lantz,1
+961,wsk-mielec,1
+962,longren,1
+963,boeing-stearman,1
+964,lange flugzeugbau gmbh,1
+965,slip stream,1
+966,commander aircraft,1
+967,powerchute,1
+968,gefa-flug gmbh,1
+969,bedecorp llc,1
+970,clarke,1
+971,rgj aviation llc,1
+972,foxair llc,1
+973,therrien roger,1
+974,ica brasov,1
+975,wsk-pzl meilec,1
+976,iai,1
+977,shaffer william c,1
+978,"bombardier aerospace, inc.",1
+979,tomei,1
+980,gadbois,1
+981,texas helicopter corporation,1
+982,indy aircraft ltd,1
+983,excalibur aircraft,1
+984,taylor,1
+985,farthing james w ii,1
+986,main air,1
+987,luscombe silvaire aircraft co.,1
+988,bryant frederick m,1
+989,avid aircraft,1
+990,lee kolb,1
+991,strong,1
+992,arrow falcon exporters inc.,1
+993,national ballooning ltd,1
+994,bucker jungmeister,1
+995,ca tecnam srl,1
+996,aermacchi,1
+997,cub crafter,1
+998,trikes,1
+999,fairchild funk,1
+1000,medway,1
+1001,treidel mark/r f d,1
+1002,better burn llc/startube div,1
+1003,morrison,1
+1004,lawson j/bowie r/smith m,1
+1005,mk ii,1
+1006,jonker sailplanes cc,1
+1007,"chevrier, armand",1
+1008,eads socata,1
+1009,hiller-tri-plex ind.inc.,1
+1010,johnny f anderson,1
+1011,holmes william e,1
+1012,bice,1
+1013,dart,1
+1014,andrews,1
+1015,piaggio aero industries spa,1
+1016,lester robert e,1
+1017,"nichols rans, inc.",1
+1018,cubcrafter,1
+1019,lammers sjef j,1
+1020,schewizer,1
+1021,mikoyan,1
+1022,airborne windsports ltd,1
+1023,seattle aerotech,1
+1024,rainbow aircraft (pty) ltd,1
+1025,wsk pzl warzawa-okecie,1
+1026,focke-wulf,1
+1027,aero tek inc.,1
+1028,british aircraft corp,1
+1029,wicks air center llc,1
+1030,sport flight,1
+1031,six-chuter,1
+1032,halsted,1
+1033,yakovlev/day,1
+1034,quartz mountain aerospace inc,1
+1035,quasar acft co llc,1
+1036,aurora,1
+1037,antares us,1
+1038,appleby,1
+1039,extra flugzeugrau gmbh,1
+1040,eads pzl warsza,1
+1041,shell john,1
+1042,allied ag cat productions,1
+1043,consolidated aeronautics,1
+1044,top dog,1
+1045,loehle aircraft corp,1
+1046,sport flight international,1
+1047,aircoupe,1
+1048,iv inc.,1
+1049,handy james l,1
+1050,collard,1
+1051,engle david,1
+1052,american blimp corporation,1
+1053,ultralite sro,1
+1054,airborn wind sports,1
+1055,aveko sro,1
+1056,augusta,1
+1057,worldwide aeros,1
+1058,1200,1
+1059,luy wayman,1
+1060,moore byron j,1
+1061,buhl,1
+1062,worner,1
+1063,schweizer(hughes)aircraft corp,1
+1064,santana,1
+1065,hogan,1
+1066,bell shelby aero,1
+1067,p&m aviation,1
+1068,lithuanian factory of aviation,1
+1069,aerosport ltd,1
+1070,fuji,1
+1071,schempp-hirth flugzeugbau,1
+1072,atr,1
+1073,hummel / finberg,1
+1074,douglas/basler,1
+1075,sud aviation/eurocopter,1
+1076,sabreliner,1
+1077,clem william b iii,1
+1078,s c aerostar s .a.,1
+1079,paul,1
+1080,extra flugzeugproduktions-gmbh,1
+1081,kenneth m franz,1
+1082,powerchute llc,1
+1083,letecky zavody,1
+1084,american champion aircraft cor,1
+1085,british aircraft corp.,1
+1086,nakajima,1
+1087,rotary air force marketing,1
+1088,sc iar sa brasov,1
+1089,louis amato,1
+1090,alisport srl,1
+1091,mcclish,1
+1092,quad city ultralights,1
+1093,emory b. wood,1
+1094,stampe et renard,1
+1095,thunder & colt airborne amer,1
+1096,mason robert,1
+1097,rans designs inc,1
+1098,eclipse aviation,1
+1099,ams-flight d.o.o.,1
+1100,stys,1
+1101,air borne windsports pty. ltd.,1
+1102,szd,1
+1103,ferguson aircraft,1
+1104,kociemba robert h,1
+1105,javron,1
+1106,north wing design,1
+1107,schempp hirth flugzeugbau gmbh,1
+1108,arbc inc dba lindstrand,1
+1109,corvus,1
+1110,william p. crowell,1
+1111,bayliss milton a iii,1
+1112,univar,1
+1113,gates learjet corporation,1
+1114,apex aircraft,1
+1115,indus,1
+1116,airtime,1
+1117,siler ronald e,1
+1118,flight design usa,1
+1119,bell-tellijohn,1
+1120,halley kft,1
+1121,national ballooning,1
+1122,antonov,1
+1123,bardouche,1
+1124,apco,1
+1125,ayres corp,1
+1126,stetson norman b,1
+1127,noorduyn,1
+1128,cosmos phase ii,1
+1129,sonex,1
+1130,golden circle,1
+1131,breezer aircraft,1
+1132,scan,1
+1133,flightworks corp,1
+1134,beriev aircraft company,1
+1135,hiller-rogerson helicopter,1
+1136,piasecki/pike,1
+1137,airplane factory (pty) ltd,1
+1138,"liberty aerospace, inc.",1
+1139,rose-rhinehart,1
+1140,trella,1
+1141,bailey robert,1
+1142,bellanca aircraft corporation,1
+1143,san joaquin helicopters,1
+1144,mischanko,1
+1145,auster,1
+1146,fly hard trike inc,1
+1147,kelm david,1
+1148,great lakes aircraft company,1
+1149,zs delta-bielsko wroclaw,1
+1150,skykits corporation,1
+1151,bush caddy usa,1
+1152,marsh aviation,1
+1153,loehle,1
+1154,glenn h curtiss museum,1
+1155,"wrb associates, llc.",1
+1156,freeman heritage collection,1
+1157,aircraft industries a.s.,1
+1158,saab-scania,1
+1159,indus aviation,1
+1160,southern powered parachute,1
+1161,quartz mountain aerospace,1
+1162,airmax construcoes aeronautica,1
+1163,croman,1
+1164,sabrena,1
+1165,westland,1
+1166,meuer mark,1
+1167,mchargue,1
+1168,balony kubicek spol sro,1
+1169,found aircraft canada,1
+1170,facebook uk ltd,1
+1171,s.z.d.,1
+1172,s.n.i.a.s,1
+1173,rotorcraft developement corp.,1
+1174,nord (sncan),1
+1175,doktor fiberglas,1
+1176,dromader,1
+1177,sea & sky inc dba krucker acft,1
+1178,bradshaw,1
+1179,"air tractor, inc.",1
