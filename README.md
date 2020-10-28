@@ -1,5 +1,7 @@
 # ETL_Aircraft_Accidents
 
+Brought to you by Kristian Soriano, Ryan Muir, and Zach Adams.
+
 This project aims to practice the process of ETL. 
 
 **E**xtract
